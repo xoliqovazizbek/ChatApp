@@ -1,0 +1,1 @@
+package uz.coder.realtimedatabase.modelsclass Message {    var message: String? = null    var date: String? = null    var username: String? = null    constructor()    constructor(message: String?, date: String?, username: String?) {        this.message = message        this.date = date        this.username = username    }}

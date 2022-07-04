@@ -1,0 +1,1 @@
+package uz.coder.realtimedatabase.dataobject Data {    var username = ""}

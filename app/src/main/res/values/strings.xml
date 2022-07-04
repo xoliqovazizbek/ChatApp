@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Realtime Database</string>
+    <string name="your_web_client_id">246003679576-g5r39ic87d9l8b8q0k1saovvf2tluka9.apps.googleusercontent.com</string>
+    <string name="your_message">Your Message</string>
+    <string name="chat_app">Chat App</string>
+    <string name="password">**password</string>
+    <string name="i_m_already_sign_up">I\'m already sign up !</string>
+    <string name="log_in">Log In</string>
+    <string name="hello_how_are_you">Hello How are you ?</string>
+    <string name="_4_06">4:06</string>
+    <string name="azizbek_xoliqov">Azizbek Xoliqov</string>
+</resources>
